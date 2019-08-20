@@ -31,17 +31,17 @@ Stage-II GAN:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DvJD-NaS_aoeAFi_Hf9E6tKbevE76X5E)
 
 Examples for birds (char-CNN-RNN embeddings), more on [youtube](https://youtu.be/93yaf_kE0Fg):
-![](examples/bird1.jpg)
-![](examples/bird2.jpg)
-![](examples/bird4.jpg)
-![](examples/bird3.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/bird1.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/bird2.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/bird3.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/bird5.jpg)
 
 
 Examples for flowers (char-CNN-RNN embeddings), more on [youtube](https://youtu.be/SuRyL5vhCIM):
-![](examples/flower1.jpg)
-![](examples/flower2.jpg)
-![](examples/flower3.jpg)
-![](examples/flower4.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/flower1.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/flower2.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/flower3.jpg)
+![](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/flower4.jpg)
 
 
 
