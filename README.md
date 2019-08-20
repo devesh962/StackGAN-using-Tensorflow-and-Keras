@@ -7,9 +7,9 @@ Tensorflow implementation for reproducing main results in the paper StackGAN: Te
 
 ![alt text](https://raw.githubusercontent.com/hanzhanggit/StackGAN/master/examples/framework.jpg)
 
-,,,
+```
 Run the code on Google Colab from the link Given Below
-'''
+```
 
 #### Data
 
